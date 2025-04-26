@@ -1,0 +1,14 @@
+D:\C#\operadoresLogicos\obj\Debug\net8.0\operadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\operadoresLogicos\obj\Debug\net8.0\operadoresLogicos.AssemblyInfoInputs.cache
+D:\C#\operadoresLogicos\obj\Debug\net8.0\operadoresLogicos.AssemblyInfo.cs
+D:\C#\operadoresLogicos\obj\Debug\net8.0\operadoresLogicos.csproj.CoreCompileInputs.cache
+D:\C#\operadoresLogicos\bin\Debug\net8.0\operadoresLogicos.exe
+D:\C#\operadoresLogicos\bin\Debug\net8.0\operadoresLogicos.deps.json
+D:\C#\operadoresLogicos\bin\Debug\net8.0\operadoresLogicos.runtimeconfig.json
+D:\C#\operadoresLogicos\bin\Debug\net8.0\operadoresLogicos.dll
+D:\C#\operadoresLogicos\bin\Debug\net8.0\operadoresLogicos.pdb
+D:\C#\operadoresLogicos\obj\Debug\net8.0\operadoresLogicos.dll
+D:\C#\operadoresLogicos\obj\Debug\net8.0\refint\operadoresLogicos.dll
+D:\C#\operadoresLogicos\obj\Debug\net8.0\operadoresLogicos.pdb
+D:\C#\operadoresLogicos\obj\Debug\net8.0\operadoresLogicos.genruntimeconfig.cache
+D:\C#\operadoresLogicos\obj\Debug\net8.0\ref\operadoresLogicos.dll

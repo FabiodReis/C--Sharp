@@ -1,0 +1,14 @@
+D:\C#\Aula06\obj\Debug\net8.0\Aula06.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Aula06\obj\Debug\net8.0\Aula06.AssemblyInfoInputs.cache
+D:\C#\Aula06\obj\Debug\net8.0\Aula06.AssemblyInfo.cs
+D:\C#\Aula06\obj\Debug\net8.0\Aula06.csproj.CoreCompileInputs.cache
+D:\C#\Aula06\bin\Debug\net8.0\Aula06.exe
+D:\C#\Aula06\bin\Debug\net8.0\Aula06.deps.json
+D:\C#\Aula06\bin\Debug\net8.0\Aula06.runtimeconfig.json
+D:\C#\Aula06\bin\Debug\net8.0\Aula06.dll
+D:\C#\Aula06\bin\Debug\net8.0\Aula06.pdb
+D:\C#\Aula06\obj\Debug\net8.0\Aula06.dll
+D:\C#\Aula06\obj\Debug\net8.0\refint\Aula06.dll
+D:\C#\Aula06\obj\Debug\net8.0\Aula06.pdb
+D:\C#\Aula06\obj\Debug\net8.0\Aula06.genruntimeconfig.cache
+D:\C#\Aula06\obj\Debug\net8.0\ref\Aula06.dll

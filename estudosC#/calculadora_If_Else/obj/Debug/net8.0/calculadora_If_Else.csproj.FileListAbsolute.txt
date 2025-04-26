@@ -1,0 +1,14 @@
+D:\C#\calculadora_If_Else\bin\Debug\net8.0\calculadora_If_Else.exe
+D:\C#\calculadora_If_Else\bin\Debug\net8.0\calculadora_If_Else.deps.json
+D:\C#\calculadora_If_Else\bin\Debug\net8.0\calculadora_If_Else.runtimeconfig.json
+D:\C#\calculadora_If_Else\bin\Debug\net8.0\calculadora_If_Else.dll
+D:\C#\calculadora_If_Else\bin\Debug\net8.0\calculadora_If_Else.pdb
+D:\C#\calculadora_If_Else\obj\Debug\net8.0\calculadora_If_Else.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\calculadora_If_Else\obj\Debug\net8.0\calculadora_If_Else.AssemblyInfoInputs.cache
+D:\C#\calculadora_If_Else\obj\Debug\net8.0\calculadora_If_Else.AssemblyInfo.cs
+D:\C#\calculadora_If_Else\obj\Debug\net8.0\calculadora_If_Else.csproj.CoreCompileInputs.cache
+D:\C#\calculadora_If_Else\obj\Debug\net8.0\calculadora_If_Else.dll
+D:\C#\calculadora_If_Else\obj\Debug\net8.0\refint\calculadora_If_Else.dll
+D:\C#\calculadora_If_Else\obj\Debug\net8.0\calculadora_If_Else.pdb
+D:\C#\calculadora_If_Else\obj\Debug\net8.0\calculadora_If_Else.genruntimeconfig.cache
+D:\C#\calculadora_If_Else\obj\Debug\net8.0\ref\calculadora_If_Else.dll
