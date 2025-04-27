@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\estudosC#\\calculadora_If_Else\\calculadora_If_Else.csproj": {}
+    "C:\\Users\\fabii\\Desktop\\C#\\estudosC#\\calculadora_If_Else\\calculadora_If_Else.csproj": {}
   },
   "projects": {
-    "D:\\C#\\estudosC#\\calculadora_If_Else\\calculadora_If_Else.csproj": {
+    "C:\\Users\\fabii\\Desktop\\C#\\estudosC#\\calculadora_If_Else\\calculadora_If_Else.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\estudosC#\\calculadora_If_Else\\calculadora_If_Else.csproj",
+        "projectUniqueName": "C:\\Users\\fabii\\Desktop\\C#\\estudosC#\\calculadora_If_Else\\calculadora_If_Else.csproj",
         "projectName": "calculadora_If_Else",
-        "projectPath": "D:\\C#\\estudosC#\\calculadora_If_Else\\calculadora_If_Else.csproj",
+        "projectPath": "C:\\Users\\fabii\\Desktop\\C#\\estudosC#\\calculadora_If_Else\\calculadora_If_Else.csproj",
         "packagesPath": "C:\\Users\\fabii\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\estudosC#\\calculadora_If_Else\\obj\\",
+        "outputPath": "C:\\Users\\fabii\\Desktop\\C#\\estudosC#\\calculadora_If_Else\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,14 @@
+D:\C#\while\bin\Debug\net8.0\while.exe
+D:\C#\while\bin\Debug\net8.0\while.deps.json
+D:\C#\while\bin\Debug\net8.0\while.runtimeconfig.json
+D:\C#\while\bin\Debug\net8.0\while.dll
+D:\C#\while\bin\Debug\net8.0\while.pdb
+D:\C#\while\obj\Debug\net8.0\while.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\while\obj\Debug\net8.0\while.AssemblyInfoInputs.cache
+D:\C#\while\obj\Debug\net8.0\while.AssemblyInfo.cs
+D:\C#\while\obj\Debug\net8.0\while.csproj.CoreCompileInputs.cache
+D:\C#\while\obj\Debug\net8.0\while.dll
+D:\C#\while\obj\Debug\net8.0\refint\while.dll
+D:\C#\while\obj\Debug\net8.0\while.pdb
+D:\C#\while\obj\Debug\net8.0\while.genruntimeconfig.cache
+D:\C#\while\obj\Debug\net8.0\ref\while.dll
