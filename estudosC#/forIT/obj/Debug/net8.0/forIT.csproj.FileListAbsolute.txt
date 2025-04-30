@@ -1,0 +1,14 @@
+D:\C#\forIT\bin\Debug\net8.0\forIT.exe
+D:\C#\forIT\bin\Debug\net8.0\forIT.deps.json
+D:\C#\forIT\bin\Debug\net8.0\forIT.runtimeconfig.json
+D:\C#\forIT\bin\Debug\net8.0\forIT.dll
+D:\C#\forIT\bin\Debug\net8.0\forIT.pdb
+D:\C#\forIT\obj\Debug\net8.0\forIT.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\forIT\obj\Debug\net8.0\forIT.AssemblyInfoInputs.cache
+D:\C#\forIT\obj\Debug\net8.0\forIT.AssemblyInfo.cs
+D:\C#\forIT\obj\Debug\net8.0\forIT.csproj.CoreCompileInputs.cache
+D:\C#\forIT\obj\Debug\net8.0\forIT.dll
+D:\C#\forIT\obj\Debug\net8.0\refint\forIT.dll
+D:\C#\forIT\obj\Debug\net8.0\forIT.pdb
+D:\C#\forIT\obj\Debug\net8.0\forIT.genruntimeconfig.cache
+D:\C#\forIT\obj\Debug\net8.0\ref\forIT.dll

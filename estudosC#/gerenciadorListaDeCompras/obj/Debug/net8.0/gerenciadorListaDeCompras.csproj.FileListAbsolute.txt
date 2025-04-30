@@ -1,0 +1,14 @@
+D:\C#\gerenciadorListaDeCompras\obj\Debug\net8.0\gerenciadorListaDeCompras.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\gerenciadorListaDeCompras\obj\Debug\net8.0\gerenciadorListaDeCompras.AssemblyInfoInputs.cache
+D:\C#\gerenciadorListaDeCompras\obj\Debug\net8.0\gerenciadorListaDeCompras.AssemblyInfo.cs
+D:\C#\gerenciadorListaDeCompras\obj\Debug\net8.0\gerenciadorListaDeCompras.csproj.CoreCompileInputs.cache
+D:\C#\gerenciadorListaDeCompras\bin\Debug\net8.0\gerenciadorListaDeCompras.exe
+D:\C#\gerenciadorListaDeCompras\bin\Debug\net8.0\gerenciadorListaDeCompras.deps.json
+D:\C#\gerenciadorListaDeCompras\bin\Debug\net8.0\gerenciadorListaDeCompras.runtimeconfig.json
+D:\C#\gerenciadorListaDeCompras\bin\Debug\net8.0\gerenciadorListaDeCompras.dll
+D:\C#\gerenciadorListaDeCompras\bin\Debug\net8.0\gerenciadorListaDeCompras.pdb
+D:\C#\gerenciadorListaDeCompras\obj\Debug\net8.0\gerenciadorListaDeCompras.dll
+D:\C#\gerenciadorListaDeCompras\obj\Debug\net8.0\refint\gerenciadorListaDeCompras.dll
+D:\C#\gerenciadorListaDeCompras\obj\Debug\net8.0\gerenciadorListaDeCompras.pdb
+D:\C#\gerenciadorListaDeCompras\obj\Debug\net8.0\gerenciadorListaDeCompras.genruntimeconfig.cache
+D:\C#\gerenciadorListaDeCompras\obj\Debug\net8.0\ref\gerenciadorListaDeCompras.dll
